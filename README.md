@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SUDAR2005
 - 👀 I’m interested in technology and gadgets 
-- 🌱 I’m currently learning 'C'
-- 💞️ I’m looking to collaborate on mini projects using 'C'
+- 🌱 I'am currently learning "Python" and "C"
+- 💞️ Looking forward to collaborate on mini projects
 - 📫 Reach me in Insta @mystery_chap
 
 <!---
