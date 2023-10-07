@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudar2005&label=Profile%20views&color=0e75b6&style=flat" alt="sudar2005" /> </p>
 
-- 🔭 Currently studying at **Thiagarajar College of Enginnering Madurai Madurai**
+- 🔭 Sophomore @**Thiagarajar College of Enginnering Madurai Madurai**
 
-- 🌱 I’m currently learning **"PYTHON" and "C"**
+- 🌱 AI enthusiast | web developer ****
 
-- 👯 I’m looking to collaborate on **mini projects using "Python"**
+- 👯 Looking to collaborate on **mini projects using**
 
 - 📫reach me at **sudarsettaiyan@gmail.com**
 
