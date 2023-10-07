@@ -5,7 +5,7 @@
 
 - 🔭 Sophomore @**Thiagarajar College of Enginnering Madurai Madurai**
 
-- 🌱 AI enthusiast | web developer ****
+- 🌱 AI enthusiast | web developer ***
 
 - 👯 Looking to collaborate on **mini projects using**
 
