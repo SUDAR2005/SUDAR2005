@@ -7,7 +7,7 @@
 
 - 🌱 AI enthusiast | web developer ***
 
-- 👯 Looking to collaborate on **mini projects using**
+- 👯 Looking to collaborate on **mini projects**
 
 - 📫reach me at **sudarsettaiyan@gmail.com**
 
