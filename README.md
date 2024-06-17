@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudar2005&label=Profile%20views&color=0e75b6&style=flat" alt="sudar2005" /> </p>
 
-- 🔭 Sophomore @**Thiagarajar College of Enginnering Madurai Madurai**
+- 🔭 Sophomore @**Thiagarajar College of Enginnering Madurai**
 
 - 🌱 AI enthusiast | web developer ***
 
