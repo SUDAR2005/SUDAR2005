@@ -5,9 +5,9 @@
 
 - 🔭 Sophomore @**Thiagarajar College of Enginnering Madurai**
 
-- 🌱 AI enthusiast | web developer ***
+- 🌱 AI enthusiast | web developer | CyberSec analyst
 
-- 👯 Looking to collaborate on **mini projects**
+- 👀 Looking to collaborate on **mini projects**
 
 - 📫reach me at **sudarsettaiyan@gmail.com**
 
