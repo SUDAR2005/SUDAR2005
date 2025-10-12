@@ -1,11 +1,11 @@
+<img src="https://komarev.com/ghpvc/?username=sudar2005&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="sudar2005" /> 
+
 <div align="center">
 
 # 👋 Hi, I'm Sudar Manikandan S
 
 ### 🚀 Passionate Techie | AI Enthusiast | Web Developer 
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Final+Year+%40+TCE+Madurai;AI+Enthusiast;Web+Developer+That+Another+Coder" alt="Typing SVG" />
-<img src="https://komarev.com/ghpvc/?username=sudar2005&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="sudar2005" />
 
 </div>
 
