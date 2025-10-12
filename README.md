@@ -1,24 +1,127 @@
-<h1 align="center">Hi 👋, I'm Sudar</h1>
-<h3 align="center">A passionate techie from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudar2005&label=Profile%20views&color=0e75b6&style=flat" alt="sudar2005" /> </p>
+# 👋 Hi, I'm Sudar Manikandan S
 
-- 🔭 Sophomore @**Thiagarajar College of Enginnering Madurai**
+### 🚀 Passionate Techie | AI Enthusiast | Web Developer 
 
-- 🌱 AI enthusiast | web developer | CyberSec analyst
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Final+Year+%40+TCE+Madurai;AI+Enthusiast;Web+Developer+That+Another+Coder" alt="Typing SVG" />
 
-- 👀 Looking to collaborate on **mini projects**
+<img src="https://komarev.com/ghpvc/?username=sudar2005&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="sudar2005" />
 
-- 📫reach me at **sudarsettaiyan@gmail.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sudar manikandan s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudar manikandan s" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sudarsettaiyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sudarsettaiyan" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sudarsethd4m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sudarsethd4m" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🎓 About Me
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudar2005&show_icons=true&locale=en&layout=compact" alt="sudar2005" /></p>
+```python
+class Sudar:
+    def __init__(self):
+        self.name = "Sudar Manikandan S"
+        self.college = "Thiagarajar College of Engineering, Madurai"
+        self.year = "Sophomore"
+        self.interests = ["AI/ML", "Web Development", "Cybersecurity", "Problem Solving"]
+        self.currently_learning = ["Advanced Algorithms", "Deep Learning", "Penetration Testing"]
+        
+    def say_hi(self):
+        print("Thanks for visiting! Let's build something amazing together! 🚀")
+
+me = Sudar()
+me.say_hi()
+```
+
+- 🔭 Currently studying at **Thiagarajar College of Engineering, Madurai**
+- 🌱 Exploring **Artificial Intelligence and Development**
+- 👀 Open to collaborate on **innovative mini projects**
+- 💡 Always eager to learn new technologies and solve challenging problems
+- 📫 Reach me at **sudarsettaiyan@gmail.com**
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### 💻 Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### 🤖 AI/ML & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=sudar2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sudar's GitHub Stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sudar2005&show_icons=true&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sudar2005&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="500"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sudar2005&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="800"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=sudar2005&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
+
+</div>
+
+---
+
+## 📈 Coding Profiles & Achievements
+
+<div align="center">
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/sudarsettaiyan)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/sudarsethd4m)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/sudar2005)
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sudar-manikandan-s)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudarsettaiyan@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sudar2005)
+
+</div>
+
+---
+
+## 💭 Quote of the Day
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+<div align="center">
+
+### ✨ Show some ❤️ by starring some repositories! ✨
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+</div>
