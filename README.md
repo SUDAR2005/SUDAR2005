@@ -19,8 +19,7 @@ class Sudar:
         self.name = "Sudar Manikandan S"
         self.college = "Thiagarajar College of Engineering, Madurai"
         self.year = "Sophomore"
-        self.interests = ["AI/ML", "Web Development", "Cybersecurity", "Problem Solving"]
-        self.currently_learning = ["Advanced Algorithms", "Deep Learning", "Penetration Testing"]
+        self.interests = ["AI/ML", "Web Development", "Problem Solving"]
         
     def say_hi(self):
         print("Thanks for visiting! Let's build something amazing together! 🚀")
