@@ -5,7 +5,7 @@
 # 👋 Hi, I'm Sudar Manikandan S
 
 ### 🚀 Passionate Techie | AI Enthusiast | Web Developer 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Final+Year+%40+TCE+Madurai;AI+Enthusiast;Web+Developer+That+Another+Coder" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Final+Year+%40+TCE+Madurai;AI+Enthusiast;Web+Developer;" alt="Typing SVG" />
 
 </div>
 
@@ -67,12 +67,14 @@ me.say_hi()
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sudar2005&show_icons=true&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" height="170"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sudar2005&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="800"/>
-
+<div align="center"> 
+    <!-- Language & Stats Cards --> 
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sudar2005&theme=github_dark" height="180"/> <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sudar2005&theme=github_dark" height="180"/>
+    <br/><br/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sudar2005&theme=github_dark" height="180"/> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sudar2005&theme=github_dark&utcOffset=5.5" height="180"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudar2005&theme=github_dark" width="100%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudar2005&theme=github-compact&hide_border=true&area=true" width="100%"/> 
 </div>
-
 ---
 
 
@@ -94,7 +96,7 @@ me.say_hi()
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sudar-manikandan-s)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudarsettaiyan@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sudar2005)
+[![Discord](https://img.shields.io/badge/Discord-313338?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1225726580823822390)
 
 </div>
 
