@@ -68,25 +68,13 @@ me.say_hi()
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=sudar2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sudar's GitHub Stats" height="170"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sudar2005&show_icons=true&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" height="170"/>
-<img src="https://streak-stats.demolab.com?user=SUDAR2005" alt="GitHub Streak" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudar2005&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="800"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=sudar2005&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
-
-</div>
-
----
 
 ## 📈 Coding Profiles & Achievements
 
