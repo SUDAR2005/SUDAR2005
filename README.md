@@ -18,7 +18,7 @@ class Sudar:
     def __init__(self):
         self.name = "Sudar Manikandan S"
         self.college = "Thiagarajar College of Engineering, Madurai"
-        self.year = "Sophomore"
+        self.year = "Senior Year"
         self.interests = ["AI/ML", "Web Development", "Problem Solving"]
         
     def say_hi(self):
