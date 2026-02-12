@@ -4,14 +4,14 @@
 
 # 👋 Hi, I'm Sudar Manikandan S
 
-### 🚀 Passionate Techie | AI Enthusiast | Web Developer 
+### Passionate Techie | AI Enthusiast | Web Developer 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Final+Year+%40+TCE+Madurai;AI+Enthusiast;Web+Developer;" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🎓 About Me
+## About Me
 
 ```python
 class Sudar:
@@ -28,19 +28,19 @@ me = Sudar()
 me.say_hi()
 ```
 
-- 🔭 Currently studying at **Thiagarajar College of Engineering, Madurai**
-- 🌱 Exploring **Artificial Intelligence and Development**
-- 👀 Open to collaborate on **innovative mini projects**
-- 💡 Always eager to learn new technologies and solve challenging problems
-- 📫 Reach me at **sudarsettaiyan@gmail.com**
+-  Currently studying at **Thiagarajar College of Engineering, Madurai**
+-  Exploring **Artificial Intelligence and Development**
+-  Open to collaborate on **innovative mini projects**
+-  Always eager to learn new technologies and solve challenging problems
+-  Reach me at **sudarsettaiyan@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 <div align="center">
 
-### 💻 Programming Languages
+### Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -48,7 +48,7 @@ me.say_hi()
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
-### ⚛️ Frameworks & Libraries
+### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -57,7 +57,7 @@ me.say_hi()
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ---
-### 🤖 AI/ML & Data Science
+### AI/ML & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -65,7 +65,7 @@ me.say_hi()
 ![PyTorch](https://img.shields.io/badge/PyTorch-013243?style=for-the-badge&logo=pytorch&logoColor=red)
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center"> 
     <!-- Language & Stats Cards --> 
@@ -78,7 +78,7 @@ me.say_hi()
 ---
 
 
-## 📈 Coding Profiles & Achievements
+## Coding Profiles & Achievements
 
 <div align="center">
 
@@ -90,7 +90,7 @@ me.say_hi()
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -102,7 +102,7 @@ me.say_hi()
 
 ---
 
-## 💭 Quote of the Day
+## Quote of the Day
 
 <div align="center">
 
