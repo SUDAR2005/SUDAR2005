@@ -103,6 +103,13 @@ me.say_hi()
 
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SUDAR2005/SUDAR2005/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SUDAR2005/SUDAR2005/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/SUDAR2005/SUDAR2005/output/github-contribution-grid-snake.svg">
+</picture>
+
+
 <br/>
 
 ## Find Me Around the Web
