@@ -1,9 +1,8 @@
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=sudar2005&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</p>
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00D9FF&height=250&section=header&text=Sudar%20Manikandan%20S&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc='Per%20aspera%20ad%20astra'&descAlignY=55&descSize=15" width="100%"/>
-
-<img src="https://komarev.com/ghpvc/?username=sudar2005&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="sudar2005" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00D9FF&height=190&section=header&text=Sudar%20Manikandan%20S&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc='Per%20aspera%20ad%20astra'&descAlignY=45&descSize=15" width="100%"/>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=The+Developer+Next+Door" alt="Typing SVG" />
 
 </div>
